@@ -1,0 +1,244 @@
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\obj\Debug\Projeto.buscar_pedido.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\obj\Debug\Projeto.cadastro_cliente.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\obj\Debug\Projeto.cadastro_fornecedor.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\obj\Debug\Projeto.cadastro_produto.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\bin\Debug\Projeto.exe
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\bin\Debug\Projeto.pdb
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\obj\Debug\Projeto.csprojResolveAssemblyReference.cache
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\obj\Debug\Projeto.buscar_pedido.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\obj\Debug\Projeto.cadastro_cliente.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\obj\Debug\Projeto.cadastro_fornecedor.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\obj\Debug\Projeto.cadastro_produto.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\obj\Debug\Projeto.exe
+C:\Users\bruno.llima1\Desktop\projeto\Projeto\Projeto2\Projeto\obj\Debug\Projeto.pdb
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\bin\Debug\Projeto.exe
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\bin\Debug\Projeto.pdb
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.exe
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.pdb
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.FORNECEDOR.resources
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.PRODUTO.resources
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.CLIENTE.resources
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.gridFORNECEDOR.resources
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.gridCliente.resources
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.gridFUNCIONARIO.resources
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.gridPEDIDO.resources
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.gridPRODUTO.resources
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.ACESSO.resources
+C:\Users\SUJO\Desktop\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.CLIENTE.resources
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.FORNECEDOR.resources
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.gridCliente.resources
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.gridFUNCIONARIO.resources
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.gridPEDIDO.resources
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.gridPRODUTO.resources
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.ACESSO.resources
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.PRODUTO.resources
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.gridFORNECEDOR.resources
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.pdb
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\bin\Debug\Projeto.exe
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\bin\Debug\Projeto.pdb
+C:\Users\andre.aoliveira7\Desktop\VER NA AULA\PROJETO INTEGRADOR\Projeto2MDIfeiTO\Projeto\obj\Debug\Projeto.exe
+C:\Users\SUJO\Desktop\02072220\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\SUJO\Desktop\02072220\Projeto\bin\Debug\Projeto.exe
+C:\Users\SUJO\Desktop\02072220\Projeto\bin\Debug\Projeto.pdb
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.CLIENTE.resources
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.FORNECEDOR.resources
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.gridCliente.resources
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.gridFUNCIONARIO.resources
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.gridPEDIDO.resources
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.gridPRODUTO.resources
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.ACESSO.resources
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.PRODUTO.resources
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.gridFORNECEDOR.resources
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.exe
+C:\Users\SUJO\Desktop\02072220\Projeto\obj\Debug\Projeto.pdb
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\bin\Debug\Projeto.exe
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\bin\Debug\Projeto.pdb
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.CLIENTE.resources
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.FORNECEDOR.resources
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.gridCliente.resources
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.gridFUNCIONARIO.resources
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.gridPEDIDO.resources
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.gridPRODUTO.resources
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.ACESSO.resources
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.PRODUTO.resources
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.gridFORNECEDOR.resources
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.exe
+C:\Users\bruno.llima1\Desktop\ENTREGAR DIA 5\SoftwareProjeto\Projeto\obj\Debug\Projeto.pdb
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\bin\Debug\Projeto.exe
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\bin\Debug\Projeto.pdb
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.CLIENTE.resources
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.FORNECEDOR.resources
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.gridCliente.resources
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.gridFUNCIONARIO.resources
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.gridPEDIDO.resources
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.gridPRODUTO.resources
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.ACESSO.resources
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.PRODUTO.resources
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.gridFORNECEDOR.resources
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.exe
+C:\Users\bruno\Downloads\backupferias\ENTREGAR DIA 5\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.pdb
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\bin\Debug\Projeto.exe
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\bin\Debug\Projeto.pdb
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.CLIENTE.resources
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.FORNECEDOR.resources
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.gridCliente.resources
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.gridFUNCIONARIO.resources
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.gridPEDIDO.resources
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.gridPRODUTO.resources
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.ACESSO.resources
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.PRODUTO.resources
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.gridFORNECEDOR.resources
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.exe
+C:\Users\bruno\Downloads\editando\SoftwareMaisRecente\Projeto\obj\Debug\Projeto.pdb
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.CLIENTE.resources
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.gridCliente.resources
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.gridFUNCIONARIO.resources
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.gridPEDIDO.resources
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.gridPRODUTO.resources
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.ACESSO.resources
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.PRODUTO.resources
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.exe
+C:\Users\bruno\Downloads\editando\Editando\Projeto\obj\Debug\Projeto.pdb
+C:\Users\bruno\Downloads\editando\Editando\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\bruno\Downloads\editando\Editando\Projeto\bin\Debug\Projeto.exe
+C:\Users\bruno\Downloads\editando\Editando\Projeto\bin\Debug\Projeto.pdb
+C:\Users\bruno\Desktop\DESKTOP\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\bruno\Desktop\DESKTOP\Projeto\bin\Debug\Projeto.exe
+C:\Users\bruno\Desktop\DESKTOP\Projeto\bin\Debug\Projeto.pdb
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.CLIENTE.resources
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.gridCliente.resources
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.gridFUNCIONARIO.resources
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.gridPEDIDO.resources
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.gridPRODUTO.resources
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.ACESSO.resources
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.PRODUTO.resources
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.exe
+C:\Users\bruno\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.pdb
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\bin\Debug\Projeto.exe
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\bin\Debug\Projeto.pdb
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.CLIENTE.resources
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.gridCliente.resources
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.gridFUNCIONARIO.resources
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.gridPEDIDO.resources
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.gridPRODUTO.resources
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.ACESSO.resources
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.PRODUTO.resources
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.exe
+C:\Users\Gabriel\Desktop\DESKTOP\Projeto\obj\Debug\Projeto.pdb
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\bin\Debug\Projeto.exe
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\bin\Debug\Projeto.pdb
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.CLIENTE.resources
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.gridCliente.resources
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.gridFUNCIONARIO.resources
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.gridPEDIDO.resources
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.gridPRODUTO.resources
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.ACESSO.resources
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.PRODUTO.resources
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.exe
+C:\Users\bruno\Downloads\desk_telasnovas\DESKTOP\Projeto\obj\Debug\Projeto.pdb
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\bin\Debug\Projeto.exe.config
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\bin\Debug\Projeto.exe
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\bin\Debug\Projeto.pdb
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.csprojAssemblyReference.cache
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.CLIENTE.resources
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.cadastro_funcionario.resources
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.gridCliente.resources
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.gridFUNCIONARIO.resources
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.gridPEDIDO.resources
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.gridPRODUTO.resources
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.ACESSO.resources
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.PRODUTO.resources
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.Principal.resources
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.Properties.Resources.resources
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.csproj.GenerateResource.cache
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.exe
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.pdb
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\bin\Debug\Projeto.exe.manifest
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\bin\Debug\Projeto.application
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.exe.manifest
+C:\Users\bruno\Desktop\PROJETO_OUT\DESKTOP\Projeto\obj\Debug\Projeto.application
